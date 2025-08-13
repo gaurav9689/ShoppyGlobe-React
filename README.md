@@ -23,7 +23,7 @@ ShoppyGlobe is a React-based e-commerce application designed for seamless online
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ShoppyGlobe.git
+    https://github.com/gaurav9689/ShoppyGlobe-React.git
     cd ShoppyGlobe-main
     ```
 
@@ -52,3 +52,5 @@ This project is licensed under the MIT License.
 ---
 
 *Feel free to contribute or open issues!*
+
+## GitHub Link : https://github.com/gaurav9689/ShoppyGlobe-React.git
