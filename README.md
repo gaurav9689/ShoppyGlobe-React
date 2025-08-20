@@ -31,7 +31,7 @@ ShoppyGlobe is a React-based e-commerce application designed for seamless online
 
 3. **Start the development server:**
     ```bash
-    npm start
+    npm run dev
     ```
 
 4. **Open the application:**
